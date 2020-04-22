@@ -9,4 +9,4 @@ def Z(sz, x, y):
             if x < sz * (i+1) and y < sz * (j+1):
                 return (i*2+j) * sz * sz + Z(sz, x-sz*i, y-sz*j)
 
-print(Z(2**N, r, c))x
+print(Z(2**N, r, c))

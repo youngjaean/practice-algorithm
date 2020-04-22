@@ -7,7 +7,7 @@
 
 # for _ in range(100):
 
-#     if bucket2 + bucket1 <= bucket2_cap:
+#     if b0ucket2 + bucket1 <= bucket2_cap:
 #         bucket2 += bucket1
 #         bucket1 = 0 
 #     else: 
